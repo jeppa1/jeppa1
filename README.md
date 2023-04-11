@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeppa1
+- 👋 Hi, I’m jeppa
 - 👀 I’m interested in learn dev
 - 🌱 I’m currently learning phyton for beginners
 - 💞️ I’m looking to collaborate on any project 
