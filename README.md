@@ -1,6 +1,6 @@
 # Hello, traveller!
 
-I'm [jeppa](https://linktr.ee/@jxppx)!
+I'm [jeppa](https://linktr.ee/jxppx)!
 
 Contact:
 
