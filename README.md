@@ -4,7 +4,7 @@ I'm [jeppa](https://linktr.ee/jxppx)!
 
 Contact:
 
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/@jxppx)
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jxppx)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jeppa1&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
