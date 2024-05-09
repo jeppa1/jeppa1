@@ -4,7 +4,7 @@
 
 **Contact:**
 
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktree.com/jxppx)
+[![Linktree](https://img.shields.io/badge/linktree-grey?style=for-the-badge&logo=linktree&logoColor=lime)](https://linktree.com/jxppx)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeppa1&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
