@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on any project
 - 🌱 Currently exploring:
 -    🔒 cybersecurity;
--    🚀AWS;
+-    ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)AWS;
 -    ☕Java backend development.
 
 
