@@ -4,10 +4,9 @@ I'm [jeppa](https://linktr.ee/jxppx)!
 
 Contact:
 
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktree.com/jxppx)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeppa1&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jeppa1&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeppa1&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
 
