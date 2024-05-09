@@ -1,4 +1,4 @@
-# Hello, traveller!
+# Hello, traveler!
 
 **I'm [jeppa](https://linktr.ee/jxppx)!**
 
