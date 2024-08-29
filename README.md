@@ -12,6 +12,7 @@
 
 **Skills:**
 
+![Ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D)
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=lime)![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=lime)
 
