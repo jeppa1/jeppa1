@@ -12,17 +12,23 @@
 
 **Skills:**
 
-![Ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D)
-
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=lime)![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=lime)
+![Seaborn](https://img.shields.io/badge/Seaborn-purple?style=for-the-badge&logo=seaborn)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=lime)![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=lime)
 
 ![Kali](https://img.shields.io/badge/Kali-000?style=for-the-badge&logo=kalilinux&logoColor=lime)![BashScript](https://img.shields.io/badge/bash%20script-000?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)
 
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=lime)
+![GSpread](https://img.shields.io/badge/GSpread-green?style=for-the-badge&logo=google-sheets)
 
 ![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=lime)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=lime)](https://github.com/jeppa1)
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
+
+![Geopandas](https://img.shields.io/badge/Geopandas-green?style=for-the-badge)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
+
+![GeoJSON](https://img.shields.io/badge/GeoJSON-blue?style=for-the-badge&logo=geojson)
 
 
 <!---
