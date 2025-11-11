@@ -6,8 +6,6 @@
 
 [![Linktree](https://img.shields.io/badge/linktree-000?style=for-the-badge&logo=linktree&logoColor=lime)](https://linktree.com/jxppx)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeppa1&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeppa1&show_icons=true&theme=transparent&)](https://github.com/anuraghazra/github-readme-stats) 
 
 **Skills:**
